@@ -1,0 +1,48 @@
+.detail-background{
+    background-color:#fff;
+    margin: 30px 0px 1px 0px !important;
+}
+.detail_head{
+    font-size:18px;
+    font-weight:bold;
+    margin-bottom: 0;
+    padding: 20px 30px 0;
+}
+.detail_subhead{
+        font-size: 14px;
+    color: #001F55;
+    opacity: 0.5;
+        padding: 0px 30px 0;
+}
+.add-btn{
+    color:#2E5BFF;
+    border:0 !important;
+}
+.add-btn:active, .add-btn:hover, .add-btn:focus{
+    color:#2E5BFF !important;
+    border:0 !important;
+}
+.Cldetail{
+    border-top: solid 1px #f5efef;
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+.iconimage{
+    padding:20px 20px 20px 0;
+}
+.ant-btn:focus > span, .ant-btn:active > span {
+     position: relative !important;
+}
+.Cldetail .ant-tabs-left > .ant-tabs-nav {
+    width: 20%;
+}
+.fields{
+    color:#7F8FAA;
+    font-size:14px !important;
+    padding:30px 0 0;
+}
+.values{
+    color:#001F55;
+    font-size:14px !important;
+    padding:30px 0 0;
+}

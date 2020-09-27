@@ -1,0 +1,46 @@
+.ant-layout-sider {
+    background: #096dd9 !important;
+    flex: 0 0 100px !important;
+    max-width: 100px !important;
+    min-width: 100px !important;
+    width: 100px !important;
+    height: 100vh !important;
+}
+.ant-layout-header {
+    height: 64px;
+    padding: 0 25px;
+    color: rgba(0, 0, 0, 0.85);
+    line-height: 64px;
+    background: #fff !important;
+    border-bottom: 1px solid #00000029;
+}
+.ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub {
+    color: rgba(255, 255, 255, 0.65);
+    background: #096dd9 !important;
+}
+.ant-menu-dark.ant-menu-inline .ant-menu-item{
+    background-color: #096dd9 !important;
+    text-align:center;
+    line-height:1.6;
+    margin-bottom:10px;
+    padding:0 !important;
+    height:70px;
+    font-weight:bold;
+}
+.ant-menu-item .anticon, .ant-menu-submenu-title .anticon {
+    min-width: 14px;
+    margin-right: 10px;
+    font-size: 17px;
+    }
+.logo{
+    color: #fff;
+    padding: 20px 0;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+.client-name{
+    display:inline-block;
+    line-height:0.5;
+    vertical-align:middle;
+
+}

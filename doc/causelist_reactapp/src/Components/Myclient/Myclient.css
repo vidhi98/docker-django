@@ -1,0 +1,9 @@
+#row_header {
+    background: #fff;
+    height: 40px;
+    padding: 10px 0;
+    margin: 30px 0px 1px 0px !important;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    text-align:left;
+}

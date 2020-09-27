@@ -1,0 +1,40 @@
+.doc_head{
+    padding:30px 20px 20px 10px;
+}
+.doc_div{
+    padding:10px 0;
+    font-size:16px;
+}
+.doc_title{
+    font-size:16px;
+    color:#212223;
+}
+.doc-btn{
+    color:#2E5BFF;
+    border:0 !important;
+    font-size:16px;
+}
+.doc-btn:active, .doc-btn:hover, .doc-btn:focus{
+    color:#2E5BFF !important;
+    border:0 !important;
+}
+.label{
+    color:#7F8FAA;
+    font-size:14px;
+}
+.doc-input{
+    background: #E0E7FF33 0% 0% no-repeat padding-box;
+    border: 1px solid #E0E7FF;
+    border-radius: 4px;
+    height:45px;
+}
+.label-div{
+    padding-bottom:15px;
+}
+.label-div .ant-select-show-search.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    cursor: text;
+    background: #E0E7FF33 0% 0% no-repeat padding-box;
+    border: 1px solid #E0E7FF;
+    border-radius: 4px;
+    height: 45px;
+}
