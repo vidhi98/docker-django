@@ -7,4 +7,5 @@ docker-compose up --build
 #To run migrations
 
 "docker-compose run doc python manage.py makemigrations"
+
 "docker-compose run doc python manage.py migrate"
